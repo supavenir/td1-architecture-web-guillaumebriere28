@@ -72,3 +72,6 @@ email = durand@example.com
 motdepasse = monSuperMotDePasse123
 
 ➡️ Le serveur traite l’inscription, enregistre l’utilisateur et renvoie une réponse (confirmation, redirection, etc.).
+
+
+## 2 – Comparaison méthodes
